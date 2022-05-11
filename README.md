@@ -1,4 +1,4 @@
-# coin-chart_predict
+# wafer-bin-map-error-pattern-classification-using-CNN
 
-## train, test data download
-### https://drive.google.com/file/d/1Ana0lt_JqMgMJ8728zn7bo1TBAhTIZxc/view?usp=sharing, https://drive.google.com/file/d/1CeTCwZDqxqufYiBYPPXe1jYH1VwQum-_/view?usp=sharing
+## dataset link
+### https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map
